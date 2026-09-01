@@ -4,7 +4,6 @@ A conversational assistant for e‑commerce that handles both general product qu
 
 ---
 
-## 📸 Screenshot
 
 ![Chatbot Interface](Conversational_Chatbot.PNG)  
 
