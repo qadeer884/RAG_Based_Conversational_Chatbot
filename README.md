@@ -1,4 +1,4 @@
-# 🛒 E‑Commerce AI Chatbot
+# 🛒 E‑Commerce Conversational AI Chatbot
 
 A conversational assistant for e‑commerce that handles both general product queries and order tracking. Built with a Retrieval‑Augmented Generation (RAG) pipeline and powered by Groq’s LLM.
 
@@ -6,7 +6,7 @@ A conversational assistant for e‑commerce that handles both general product qu
 
 ## 📸 Screenshot
 
-![Chatbot Interface](screenshot.png)  
+![Chatbot Interface](Conversational_Chatbot.png)  
 *(Replace `screenshot.png` with your actual image.)*
 
 ---
